@@ -5,4 +5,5 @@ export interface Car {
   modelYear: number;
   dailyPrice: 300;
   description: string;
+  
 }
